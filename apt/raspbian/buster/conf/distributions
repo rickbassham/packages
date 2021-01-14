@@ -1,0 +1,7 @@
+Origin: github.com/rickbassham/packages
+Label: Rick Bassham Deb Packages
+Codename: buster
+Architectures: armhf
+Components: main
+Description: APT repo for personal packages
+SignWith: 1E709D9E
